@@ -1,3 +1,14 @@
+basic endpoint response testing.
+Todo:
+1. authentication testing against JWT
+2. ????
+
+versioning:
+major.minor[.build[.revision]](example: 1.2.12.102)
+1.0.1.0
+
+
+
 JAX-RS 2.0 RESTEasy Final Client API example
 
 
